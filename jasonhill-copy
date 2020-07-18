@@ -1,22 +1,3 @@
-# Wildcard blocking
-# The domains below need to beed added to your program as wildcard domains
-# ( without the # )
-# 
-# 6.googlevideo.com
-# 7.googlevideo.com
-# d.googlevideo.com
-# e.googlevideo.com
-# k.googlevideo.com
-# l.googlevideo.com
-# r.googlevideo.com
-# s.googlevideo.com
-# y.googlevideo.com
-# z.googlevideo.com
-
-
-
-# Domains under test before being added to main list below
-
 ad.doubleclick.net
 googlesyndication.com
 tpc.googlesyndication.com
